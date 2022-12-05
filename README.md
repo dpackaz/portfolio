@@ -4,7 +4,7 @@
 
 ## Description
 
-As the name states, this is the repository for my personal portfolio. This project has been built entirely with React, and is a single page application.
+As the name states, this is the repository for my personal portfolio. This project has been built entirely with React, and is a single page application. Key projects that I have worked on are included in the Portfolio tab of this page, and will allow users to view more of my work.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ No installation is required to view this project.
 
 [Link to My Portfolio](placeholder)
 
-To view/use this project, a user must simply follow the above link.
+To view/use this project, a user must simply follow the above link and navigate through the page as they would any other website.
 
 ## Credits
 
