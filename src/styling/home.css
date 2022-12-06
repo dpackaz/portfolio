@@ -1,9 +1,7 @@
 .greeting {
   color: skyblue;
   font-size: 52px;
-  font-family:'Courier New', Courier, monospace
+  font-family: "Courier New", Courier, monospace;
 }
 
-.body {
-    
-}
+/* .body {}   */
