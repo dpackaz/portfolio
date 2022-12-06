@@ -1,0 +1,12 @@
+.mainBackground {
+  background-color: #2e3638;
+  justify-content: center;
+}
+
+.accentText {
+  color: skyblue;
+}
+
+.basicText {
+  color: whitesmoke;
+}

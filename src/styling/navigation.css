@@ -1,0 +1,23 @@
+.navbar {
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.navElement {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-family: sans-serif;
+  color: whitesmoke;
+  font-size: 24px;
+  text-decoration: none;
+  margin: 15px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
